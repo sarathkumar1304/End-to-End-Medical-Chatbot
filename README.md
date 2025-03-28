@@ -31,5 +31,5 @@ streamlit run app.py
 📂 **Load PDFs** → 🔍 **Split Text** → 🧠 **Generate Embeddings** → 📡 **Store in Pinecone** → ⚡ **Retrieve & Respond**
 
 ## 📜 License & Author
-**License:** MIT | **Author:** [Your Name](https://github.com/your-username)
+**License:** MIT | **Author:** [R.Sarath Kumar](https://github.com/sarathkumar1304)
 
